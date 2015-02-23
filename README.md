@@ -1,5 +1,7 @@
 # iojs-hu
 
+[![Join the chat at https://gitter.im/iojs/iojs-hu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-hu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [iojs](https://iojs.org) magyarul.
 
 A repóban elsősorban az io.js-el kapcsolatos hírek,
