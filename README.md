@@ -18,5 +18,5 @@ Nyiss egy PR-t, amivel berakod magad a tagok közé (a többit mi megoldjuk!).
 
 - Dányi Bence ([@madbence](https://github.com/madbence))
 
-- Püski TAmás 
+- Püski Tamás 
 ([@tpuski](https://github.com/bling5630))
