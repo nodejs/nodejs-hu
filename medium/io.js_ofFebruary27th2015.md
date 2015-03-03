@@ -27,4 +27,39 @@ Rod az io.js project-et is beleértve kezdete óta támogatja az ARM szerepét k
 
 A csapat a engedélyeztetés folyamatában van az ARMv8 Server Cluster integráció illetően az io.js CI platform integrációval, aminek végül egy ARMv8 release -hez kellene vezetnie.
 
+**Közösségi hirek**
+
+* **[Egyeztetesi javaslat](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fiojs%2Fio.js%2Fissues%2F978&sa=D&sntz=1&usg=AFQjCNFOzJhQjoxhNT6dEqWkxPorR_FAhw)**: Az io.js projectet illetően tervet késztünk, amit elfogunk juttatni a Node Foundation -hoz. Ezért, minden a közösségtől érkező vélemenyt nagyon fontosnak tartunk ebben a korai fázisban, igy kérünk titeket, hogy adjatok teret a szavatoknak.
+
+* **New internal C++ Streams API**: A heten [új C++ Stream API](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fiojs%2Fio.js%2Fcommit%2Fb9686233fc0be679d7ba1262b611711629ee334e&sa=D&sntz=1&usg=AFQjCNEPX_bRZxtSut1p1cIXOHFy8bCtQw) érkezett, ami segit az egyik TLS stream -et wrappolni egy másikba.
+
+* **io.js Roadmap**: Ime a legújabb [Roadmap](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fiojs%2Fio.js%2Fblob%2Fv1.x%2FROADMAP.md&sa=D&sntz=1&usg=AFQjCNHOdPnRo8spNnU12bdSxun4oha2pA) az io.js jövőbeni terveit illetően. Helyet kap a stabilitás kérdését érintő szabályzat, valamint az azonnali teendők köre a project egészét érintve.
+
+* **Roadmap slide-sor elkészült és fordtásra kész**: [Az io.js roadmap bemutató slide sorok véglegesek](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fiojs%2Froadmap%2Fissues%2F18&sa=D&sntz=1&usg=AFQjCNGHQtuHfkXLcZ1XUq98P_hMFlwNFw) és forditásra készek. Ha bárki úgy érzi, hogy készen áll egy prezentációra a saját közössége előtt, akkor jelezze ezt felénk bátran s segiteni fogunk az előkészületekben.
+
+* **Microsoft io.js How-To for Azure Websites**: [A Microsoft kiadta az Azure platform -hoz tartozó oktató anyagot](http://www.google.com/url?q=http%3A%2F%2Fazure.microsoft.com%2Fen-us%2Fdocumentation%2Farticles%2Fweb-sites-nodejs-iojs%2F&sa=D&sntz=1&usg=AFQjCNHGw9YvP_ZWImfk64a4qdT63VGylg), ami segiti az io.js használatának elsajátitását az Azure platform-on. 
+
+* **Floobits io.js -t használ**:  [A Floobits áttért io.js -re](https://news.floobits.com/2015/02/23/on-moving-to-io.js/), részben mert frusztráló volt számukra a node.js release ciklusainak lassúsága, beleértve a több ES6 feature -t a harmony flag szükségessége nélkül, illetve a nagyobb fejlődés hiányat a 0.10..0 és a 0.12.0 közt.
+
+* **Anand Mani Sankar’s Node.js vs io.js: Mi oka a fork -nak?!?**: [Anand, irt egy többnyire objektiv véleményt az io.js eddigi történéseiről](http://www.google.com/url?q=http%3A%2F%2Fanandmanisankar.com%2Fposts%2Fnodejs-iojs-why-the-fork%2F%23.VO82hE60PVw.twitter&sa=D&sntz=1&usg=AFQjCNFIXWcCll74aHXBZeiUf1QolsGZ5w) és a jövőben célokról. Kifejezetten érdekes és ajánlott olvasmány mindenkinek aki nem elkötekezett az io.js irányában. 
+
+* **iojs-jp - új japán io.js blog**: A japán io.js csoport egy létrehozott egy, saját nyelvű [allokált io.js -t érintő blogot](http://www.google.com/url?q=http%3A%2F%2Fblog.iojs.jp%2F&sa=D&sntz=1&usg=AFQjCNH2MvG-JqduDayGLYmWfc6p8qMLnA), annak érdekében, hogy még jobban tudják terjeszteni a közösség hirét.
+
+* **iojs-cn - új kinai io.js blog**: Hasonlóan a japán io.js blog-oldalhoz, ez a csoport is [felállitott egy saját nyelvű oldalt](http://www.google.com/url?q=http%3A%2F%2Fcn.iojs.org%2F&sa=D&sntz=1&usg=AFQjCNH8xlZ0XzKsD7CrzbroHU5SV14PHQ), ahol a megtekinthetőek a hirek és az újdonságok az io.js-t illetően. 
+
+* **[Roadmap slide-sor review](https://www.youtube.com/watch?v=etI_UD4wXlo)** - Áttekintésre került az io.js roadmap bemutató mielőtt szabadon szabadon lesz használható a csoportok által, ez rendkivül fontos volt abból a szempontból, hogy a project üzenete találkozzon az elvárásokkal.
+
+**io.js támogatás elérhető**
+
+* **[Wallby.js](http://www.google.com/url?q=http%3A%2F%2Fwallabyjs.com%2F&sa=D&sntz=1&usg=AFQjCNEMz30psv0ejZpAaJkvrrJwbe2gCQ)**, ez a testing JavaScript library elérte az 1.0 verziót és az io.js támogatottságot.
+
+* **[jsdom](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Ftmpvar%2Fjsdom&sa=D&sntz=1&usg=AFQjCNH_Dit-bvVWStAIV-xoMEYeBchS0A)**, a WHATWG DOM és HTML standard -ek megvalósitója, elérte 4.0.0 verziót, ami az io.js elvárásoknak is eleget tesz.
+
+* **[give](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fmmalecki%2Fgive&sa=D&sntz=1&usg=AFQjCNEtnJZKP-zG_mY8KEpoxnF2xVZbRA)** megalkotója nemrég közölte egy [tweet-ben](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fmaciejmalecki%2Fstatus%2F569629100215816192&sa=D&sntz=1&usg=AFQjCNHzGZxe4YSrI2Q9ZLRRLTILrE95rQ), hogy az újabb give verziók io.js támogatással működnek majd. A give, egy git alapú node.js/io.js verzió követeő rendszer.
+
+* A **Firebase Realtime Kliens**, a hivatalos web/node.js JavaScript kliens Firebase hez, nemrég közölte egy [tweet-ben](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2FFirebaseRelease%2Fstatus%2F570000737343647744&sa=D&sntz=1&usg=AFQjCNHDLhmcl20SZuUBPZs_Kc9qCgvfSQ), hogy io.js támogatást biztosit a [2.2.1 verzióhoz](https://www.google.com/url?q=https%3A%2F%2Fwww.firebase.com%2Fdocs%2Fweb%2Fchangelog.html%23section-realtime-client&sa=D&sntz=1&usg=AFQjCNFcjv7E698eXaHV7nfRDSZKbUdTVw). 
+
+* A continuous integrations szolgáltatást biztosito **Semaphore** egy [tweet -ben](https://www.google.com/url?q=https%3A%2F%2Ftwitter.com%2Fsemaphoreapp%2Fstatus%2F570987355005431809&sa=D&sntz=1&usg=AFQjCNFEsTUf27A6m0xU8eUcjPfMQyiJdg) jelezte a [2015 Február 24-i frissitést követően](https://www.google.com/url?q=https%3A%2F%2Fsemaphoreapp.com%2Fblog%2F2015%2F02%2F17%2Fplatform-update-on-february-24th.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_content%3Dplatform_update_launch%26utm_campaign%3Dplatformupdate&sa=D&sntz=1&usg=AFQjCNHNa2lUgZaypv-7JPoHUBoBYPLVSQ) io.js támogatást biztositanak. 
+
+
 
