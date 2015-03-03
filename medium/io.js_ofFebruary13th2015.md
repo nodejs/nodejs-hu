@@ -103,7 +103,7 @@ Csoportjaink
 
 Lásd az eredeti [Medium](https://www.google.com/url?q=https%3A%2F%2Fmedium.com%2F%40iojs%2Fio-js-and-a-node-js-foundation-4e14699fb7be&sa=D&sntz=1&usg=AFQjCNERAE8Aj-loVu0vD6ox9uOfYsGI9A) cikket.
 
-* Scott Hammond, CEO Joyent, megemltette, hogy szivesen vátja vissza io.js node.js -be. 
+* Scott Hammond, a Joyent CEO-ja, megemlítette, hogy szívesen venné ha az io.js-t visszavezetnék node.js -be.
 
 **Pár hónap alatt az io.js…**
 
