@@ -24,3 +24,4 @@ Nyiss egy PR-t, amivel berakod magad a tagok közé (a többit mi megoldjuk!).
 - Dányi Bence ([@madbence](https://github.com/madbence))
 - Püski Tamás ([@tpuski](https://github.com/bling5630))
 - Tamás Csaba ([@tamascsaba](https://github.com/tamascsaba))
+- Szmozsánszky István ([@flaki](https://github.com/flaki))
