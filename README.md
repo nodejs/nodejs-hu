@@ -9,7 +9,7 @@ blogbejegyzések fordítását szeretnénk megszervezni.
 
 ## Ha segítenél
 
-Nézz szét az [issue-k](/iojs/iojs-hu/issues) között, küldj PR-t :wink:.
+Nézz szét az [issue-k](https://github.com/iojs/iojs-hu/issues) között, küldj PR-t :wink:.
 
 ## Ha el akarsz minket érni
 
