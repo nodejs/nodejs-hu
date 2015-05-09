@@ -25,3 +25,4 @@ Nyiss egy PR-t, amivel berakod magad a tagok közé (a többit mi megoldjuk!).
 - Püski Tamás ([@tpuski](https://github.com/bling5630))
 - Tamás Csaba ([@tamascsaba](https://github.com/tamascsaba))
 - Szmozsánszky István ([@flaki](https://github.com/flaki))
+- Méhész Imre ([@imehesz](https://github.com/imehesz))
