@@ -1,15 +1,15 @@
-# iojs-hu
+# nodejs-hu
 
-[![Join the chat at https://gitter.im/iojs/iojs-hu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-hu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/nodejs/nodejs-hu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodejs/nodejs-hu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[iojs](https://iojs.org) magyarul.
+[nodejs](https://nodejs.org) magyarul.
 
-A repóban elsősorban az io.js-el kapcsolatos hírek,
+A repóban elsősorban az node.js-el kapcsolatos hírek,
 blogbejegyzések fordítását szeretnénk megszervezni.
 
 ## Ha segítenél
 
-Nézz szét az [issue-k](https://github.com/iojs/iojs-hu/issues) között, küldj PR-t :wink:.
+Nézz szét az [issue-k](https://github.com/nodejs/nodejs-hu/issues) között, küldj PR-t :wink:.
 
 ## Ha el akarsz minket érni
 
